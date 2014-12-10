@@ -1,5 +1,7 @@
-#compiled python files
+test.vmp
 
+# compiled python files
+build
 *.pyc
 
 #object files
